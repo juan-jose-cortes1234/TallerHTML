@@ -1,0 +1,58 @@
+h1 {
+    color :black;
+    text-align : center;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+img {
+    width: 100%;  
+    height: 100%;
+}
+
+#subtitle1 {
+    color:grey;
+    text-align:left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#imgDescripcionPieter {
+    width : 200px;
+    height: 150px;
+    
+  
+}
+
+#imgDescripcionMonalisa {
+    width : 200px;
+    height : 150px;
+}
+
+#imgDescripcionVanGogh {
+    width: 200px;
+    height: 150px;
+}
+
+.margen {
+    
+    height : 500px;
+}
+
+.espacioGrande {
+    height : 100px;
+}
+
+#cajaComentario {
+    width: 300px;
+}
+
+h3 {
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#ultimaCena {
+    width: 100%;
+    height:auto;
+}
